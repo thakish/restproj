@@ -1,0 +1,21 @@
+
+#topnav{
+     padding: 5px;
+  }
+
+  #topnav li{
+      padding-right: 8px;
+      display: inline;
+      float: right;
+      text-decoration: none;
+  }
+
+#topnav li:hover{
+            background-color: black;
+         }
+  #topnav li a{
+     text-decoration: none;
+     font-family: monospace;
+     font-size: 20px;
+     color: #ffcc33;
+  }
